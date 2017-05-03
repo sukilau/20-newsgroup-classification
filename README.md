@@ -4,7 +4,5 @@
 Data : The 20 Newsgroup Dataset<br/>
 Data Source: http://qwone.com/~jason/20Newsgroups/
 
-Naive Bayes Accuracy : 77%<br/>
-SVM Accuracy : 82%<br/>
-
+Comparing Naive Bayes and SVM machine learning algorithm. 
 
