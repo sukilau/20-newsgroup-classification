@@ -1,8 +1,10 @@
-# 20-newsgroup-classification
-<h2> Classifying 20 newsgroups using Naive Bayes and SVM </h2>
+# Classifying 20 newsgroups using Naive Bayes and SVM
 
-Data : The 20 Newsgroup Dataset<br/>
-Data Source: http://qwone.com/~jason/20Newsgroups/
+## Task
 
-Comparing Naive Bayes and SVM machine learning algorithm. 
+* Data : [20 Newsgroup Dataset](http://qwone.com/~jason/20Newsgroups/)
+* Comparing Naive Bayes and SVM trained on the dataset. 
 
+## What is in this repo
+
+*NB-SVM.py*
